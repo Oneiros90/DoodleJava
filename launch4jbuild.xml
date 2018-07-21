@@ -1,0 +1,34 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\dist\DoodleJava.jar</jar>
+  <outfile>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\DoodleJava.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\doodle.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.0.0</fileVersion>
+    <txtFileVersion>1.1</txtFileVersion>
+    <fileDescription>Doodle Jump in Java by Lorenzo Valente</fileDescription>
+    <copyright>Lima Sky</copyright>
+    <productVersion>1.1.0.0</productVersion>
+    <txtProductVersion>1.1</txtProductVersion>
+    <productName>Doodle Java</productName>
+    <companyName>Oneiros</companyName>
+    <internalName>doodlejava</internalName>
+    <originalFilename>DoodleJava.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
