@@ -1,8 +1,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\dist\DoodleJava.jar</jar>
-  <outfile>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\DoodleJava.exe</outfile>
+  <jar>dist\DoodleJava.jar</jar>
+  <outfile>dist\DoodleJava.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir></chdir>
@@ -12,7 +12,7 @@
   <customProcName>false</customProcName>
   <stayAlive>false</stayAlive>
   <manifest></manifest>
-  <icon>C:\Users\Oneiros\Desktop\Dropbox\Programmazione\Java\Giochi\DoodleJava\doodle.ico</icon>
+  <icon>doodle.ico</icon>
   <jre>
     <path></path>
     <minVersion>1.6.0</minVersion>
